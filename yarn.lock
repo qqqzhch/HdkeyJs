@@ -16,6 +16,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
+"@jswebfans/amino-js@0.4.5":
+  version "0.4.5"
+  resolved "https://registry.npmjs.org/@jswebfans/amino-js/-/amino-js-0.4.5.tgz#baae54c10bed081e5ea505f0ad1c099a3f45fa91"
+
 "@jswebfans/bcryptjs@2.4.4":
   version "2.4.4"
   resolved "https://registry.npmjs.org/@jswebfans/bcryptjs/-/bcryptjs-2.4.4.tgz#79894242110e73df25ee928b01210f79b558d386"
